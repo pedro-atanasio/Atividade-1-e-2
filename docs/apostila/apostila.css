@@ -1,0 +1,41 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ecf7ed;
+    color: #030303;
+}
+.nome{
+    text-align: center;
+    font-size: xx-large ;
+}
+
+.headernome {
+    margin: 15% 15% 15% 15%;
+    text-align: center;
+    
+}
+
+.headernome h1{
+    padding: 155px;
+
+    
+    
+}
+section{
+    margin: 5%, 5%, 5%, 5%;
+}
+
+.listmenu{
+    list-style: none ;
+    display: inline;
+    padding: 2%;
+    border: solid;
+    border-color: rgb(135, 6, 241);
+}
+
+.linkmenu{
+     text-decoration: none;
+    }
+    .listmenu:hover{
+        background-color: white;
+        
+    }
